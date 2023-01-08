@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoyoung7623%2Fhit-counter&count_bg=%23000000&title_bg=%23FF7E7E&icon=&icon_color=%238C8C8C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoyoung7623%2Fhit-counter&count_bg=%23000000&title_bg=%23FF7E7E&icon=&icon_color=%238C8C8C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
   
   </br>
  </div>
