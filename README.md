@@ -39,7 +39,9 @@
  <div align = "center">
  
 ![seoyoung7623's github stats](https://github-readme-stats.vercel.app/api?username=seoyoung7623&show_icons=true)
+
 [![seoyoung7623's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoung7623&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/seoyoung7623)
+
 </div>
 
 
