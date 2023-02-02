@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=200&section=header&text=Seo%20Young%20Yoon%20🍒&fontSize=65)
 
-<div align = "center"><h2>📚STACKS</h2></div>
+<div align = "center"><h2>📚STUDY STACKS</h2></div>
 
 <div align = "center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
@@ -36,13 +36,8 @@
 
  <br>
  
- <!--
+<!--
  <div align = "center">
-  
-  
-  ![seoyoung7623's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoung7623&show_icons=true&theme=radical)
-  
-  ![seoyoung7623's github stats](https://github-readme-stats.vercel.app/api?username=seoyoung7623&show_icons=true)
  
 ![seoyoung7623's github stats](https://github-readme-stats.vercel.app/api?username=seoyoung7623&show_icons=true)
 
@@ -51,5 +46,9 @@
 </div>
 -->
 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=seoyoung7623&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="seoyoung7623's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoung7623&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=150&section=footer&text=🍀&fontSize=55) 
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=150&section=footer&text=🍀&fontSize=50) 
