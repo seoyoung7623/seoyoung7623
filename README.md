@@ -48,9 +48,9 @@
 </div>
 -->
 
-| <img align="center" src="https://github-readme-stats-wheat-seven-54.vercel.app/api/?username=seoyoung7623&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="seoyoung7623's github stats" /></a> | <img align="center" src="https://github-readme-stats-wheat-seven-54.vercel.app/api/top-langs/?username=seoyoung7623&layout=compact&theme=buefy&hide_border=true" /></a> |
+<!-- | <img align="center" src="https://github-readme-stats-wheat-seven-54.vercel.app/api/?username=seoyoung7623&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="seoyoung7623's github stats" /></a> | <img align="center" src="https://github-readme-stats-wheat-seven-54.vercel.app/api/top-langs/?username=seoyoung7623&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
+ -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=150&section=footer&text=🍀&fontSize=50) 
