@@ -1,14 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=200&section=header&text=Seo%20Young%20Yoon%20🍒&fontSize=65)
 
-<div align = "center"><h2>📚STUDY STACKS</h2></div>
+<div align = "center"><h2>📚STACKS</h2></div>
 
 <div align = "center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-  <!-- <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> -->
+ <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> 
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  </br>
   <img src="https://img.shields.io/badge/Java-2C2255?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <!-- <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> -->
+</br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"> 
   
   </br>
@@ -16,9 +17,7 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
   </br> -->
-  
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+ 
   <!-- <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/> -->
@@ -47,10 +46,9 @@
 
 </div>
 -->
-
-<!-- |  <img align="center" src="https://github-readme-stats-wheat-seven-54.vercel.app/api/?username=seoyoung7623&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="seoyoung7623's github stats" /></a> | <img align="center" src="https://github-readme-stats-wheat-seven-54.vercel.app/api/top-langs/?username=seoyoung7623&layout=compact&theme=buefy&hide_border=true" /></a> |
+<!--
+|  <img align="center" src="https://github-readme-stats-wheat-seven-54.vercel.app/api/?username=seoyoung7623&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="seoyoung7623's github stats" /></a> | <img align="center" src="https://github-readme-stats-wheat-seven-54.vercel.app/api/top-langs/?username=seoyoung7623&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
- -->
+-->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=150&section=footer&text=🍀&fontSize=50) 
