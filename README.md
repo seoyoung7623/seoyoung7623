@@ -5,6 +5,7 @@
   ### 👩‍💻 **About Me** 
   <a href="https://seoyoung0307.notion.site/Portfolio-f6bd32719ff9425ab42b743abe50b3d6?pvs=4"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>&nbsp;
   <a href="https://github.com/seoyoung7623"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
+  <a href="https://sy-cs-story.tistory.com"><img alt="Tistary" src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>&nbsp;
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoyoung7623%2Fhit-counter&count_bg=%23000000&title_bg=%23FF7E7E&icon=&icon_color=%238C8C8C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)&nbsp;
 
   ### 💻 **Tech Stack** 
