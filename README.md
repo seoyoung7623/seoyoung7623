@@ -19,8 +19,8 @@
 
   ### 🔧 **Tools** 
   <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>&nbsp;
-  <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJ&logoColor=white"/>&nbsp;
-  <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=VSCode&logoColor=white"/>&nbsp;
+  <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>&nbsp;
+  <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>&nbsp;
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>&nbsp;</br>
   <img alt="Discode" src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>&nbsp;
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>&nbsp;
