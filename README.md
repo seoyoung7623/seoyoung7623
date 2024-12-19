@@ -27,8 +27,6 @@
   - UMC 4기 : Web Part ( 03/2023 - 06/2023 )
   <br>
   - UMC 3기 : Server Part ( 09/2022 - 12/2023 )
-  <br>
-  - CUK 컴퓨터정보공학부 학회 FAN 기획운영 ( 03/2022 - 02/2023 )
 </div>
   
   
@@ -56,9 +54,11 @@
 
 <div align="center">
   <h3>🪪 License</h3>
-  - 정보처리기사 ( 11/2023 )
+  - Engineer Information Processing ( 11/2023 )
    <br>
   - SQLD ( 06/2024 )
+  <br>
+  - AWS Solutions Architect - Associate(SAA) ( 12/2024)
 </div>
 
 <div align="center">
