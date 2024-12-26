@@ -18,15 +18,15 @@
   
 <div align="center">
   <h3>🤙🏻 Organizations </h3>
-  - GDGC CUK ( 09/2024 - 12/2024 )
+  - GDGC CUK ( 09/2024 ~ 12/2024 )
   <br>
-  - ACC(AWS Cloud Club) ( 02/2024 - 12/2024 )
+  - ACC(AWS Cloud Club) ( 02/2024 ~ 12/2024 )
   <br>
-  - Clipper 1기 : Server & PM ( 12/2023 - 02/2024)
+  - Clipper 1기 : Server & PM ( 12/2023 ~ 02/2024 )
   <br>
-  - UMC 4기 : Web Part ( 03/2023 - 06/2023 )
+  - UMC 4기 : Web Part ( 03/2023 ~ 06/2023 )
   <br>
-  - UMC 3기 : Server Part ( 09/2022 - 12/2023 )
+  - UMC 3기 : Server Part ( 09/2022 ~ 12/2023 )
 </div>
   
   
@@ -58,7 +58,7 @@
    <br>
   - SQLD ( 06/2024 )
   <br>
-  - AWS Solutions Architect - Associate(SAA) ( 12/2024)
+  - AWS Solutions Architect - Associate(SAA) ( 12/2024 )
 </div>
 
 <div align="center">
